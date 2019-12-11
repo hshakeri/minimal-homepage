@@ -28,7 +28,7 @@ twitter_username: hemanshakeri
 github_username:  hshakeri
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
